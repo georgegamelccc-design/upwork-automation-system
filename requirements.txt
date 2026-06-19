@@ -1,0 +1,6 @@
+bs4
+dotenv
+openai
+os,
+proposal_writer
+requests
